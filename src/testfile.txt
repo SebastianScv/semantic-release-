@@ -7,3 +7,4 @@ performance improvements
 solved another bug
 new feature
 chore commit
+hotfix commit
