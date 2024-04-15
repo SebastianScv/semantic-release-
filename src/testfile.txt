@@ -8,3 +8,4 @@ solved another bug
 new feature
 chore commit
 hotfix commit
+another chore commit with something small
