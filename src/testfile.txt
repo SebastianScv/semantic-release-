@@ -2,3 +2,4 @@ content
 added new feature to testfile
 one more line
 another like
+solved bug
