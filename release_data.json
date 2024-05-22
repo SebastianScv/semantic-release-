@@ -1,0 +1,21 @@
+[
+  {
+    "version": "2.3",
+    "date": "22/05/2024",
+    "fixes": [],
+    "features": [
+      {
+        "jiraId": "DIJ-124",
+        "title": "Test dsa dsnidwq"
+      }
+    ],
+    "lastCommitId": "bf7c30d1a7c8fb4b914b3d1add952f8ee6662696"
+  },
+  {
+    "version": "2.2",
+    "date": "",
+    "fixes": [],
+    "features": [],
+    "lastCommitId": ""
+  }
+]
