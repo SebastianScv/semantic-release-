@@ -22,3 +22,4 @@ nother line
 commit foo
 
 commit with incident
+commit without incident
