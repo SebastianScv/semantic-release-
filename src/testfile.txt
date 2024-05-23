@@ -20,3 +20,5 @@ another line
 nother line
 
 commit foo
+
+commit with incident
