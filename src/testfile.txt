@@ -16,7 +16,3 @@ another feature added
 Performance fix
 DIJ-1234
 addeig
-another line
-nother line
-
-commit foo
